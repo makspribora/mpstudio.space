@@ -1,2 +1,5 @@
 # mpstudio.space
- my website
+Just source code of my website
+
+# frameworks
+tailwind
